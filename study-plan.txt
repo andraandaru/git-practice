@@ -1,6 +1,6 @@
 My Study Plan
-Fundamental
-HTML, CSS, Javascript
-FrontEnd
-Mobile
-BackEnd
+- Fundamental
+- HTML, CSS, Javascript
+- FrontEnd
+- Mobile
+- BackEnd
