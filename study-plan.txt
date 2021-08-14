@@ -2,5 +2,7 @@ My Study Plan
 - Fundamental
 - HTML, CSS, Javascript
 - FrontEnd
+  * React
+  * Styling: React Bootstrap, Material-UI, Tailwind, Styled Component
 - Mobile
 - BackEnd
