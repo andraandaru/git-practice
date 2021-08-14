@@ -3,5 +3,7 @@ My Study Plan
 - HTML, CSS, Javascript
 - FrontEnd
   * React
-  * Styling: React Bootstrap, Material-UI, Styled Component
+  * Styling: React Bootstrap, Material-UI, Tailwind, Styled Component
+- Mobile
+  * React Native
 - BackEnd
