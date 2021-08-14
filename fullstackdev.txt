@@ -1,0 +1,13 @@
+Front End
+- HTML
+- CSS
+- Javascript
+- Framework JS: React
+
+Mobile
+- React Native
+
+Back End
+- Node
+- Express
+- SocketIO
